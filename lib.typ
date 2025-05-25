@@ -17,6 +17,7 @@
   abstract: none,
   bibliography-file: none,
   citation-style: "ieee",
+  date: datetime.today(),
   // terms-list: none,
   body,
 ) = {
@@ -66,7 +67,7 @@
     author: authors,
     description: abstract,
     keywords: keywords,
-    date: datetime.today(),
+    date: date,
   )
 
   set text(size: 10pt)
@@ -147,7 +148,7 @@
   )
 
   grid(
-    columns: (1fr, 2fr),
+    columns: (1fr, 2.5fr),
     column-gutter: 3em,
     row-gutter: 1em,
     grid.cell(colspan: 2)[],
