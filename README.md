@@ -32,7 +32,7 @@ Should the style update, you can easily update the template by changing the vers
 To get started with this Typst document template, follow these steps:
 
 1. **Install Typst**: I recommend to use VSCode with [Tinymist Typst Extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist). You will also need a PDF viewer in VSCode if you want to view the document live.
-2. **Import the template**: Import the template into your own typst document. `#import "@preview/unofficial-fontys-paper-template:0.1.0": *`
+2. **Import the template**: Import the template into your own typst document. `#import "@preview/unofficial-fontys-paper-template:0.1.0": fontys-paper`
 3. **Set the available options**: Set the available options in the template file to your liking.
 4. **Start writing**: Start writing your document.
 

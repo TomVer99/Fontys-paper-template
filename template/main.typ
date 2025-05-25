@@ -1,4 +1,4 @@
-#import "../lib.typ": fontys-paper
+#import "@preview/unofficial-fontys-paper-template:0.1.0": fontys-paper
 
 #show: fontys-paper.with(
   title: "Title",
