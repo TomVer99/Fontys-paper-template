@@ -7,7 +7,6 @@
   keywords: ("Some", "Complex"),
   abstract: [#lorem(60)],
   // bibliography-file: bibliography("bib.bib"),
-  // terms-list: term-list,
 )
 
 = Start improving the world
