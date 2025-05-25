@@ -24,7 +24,6 @@
     We propose A-Mail, a new anti-matter based approach that can ensure that mail loss occurring during interplanetary transit is unobservable and therefore potentially undetectable.
     Going even further, we extend A-Mail to predict problems and apply existing and new best practices to ensure the mail is delivered without any issues. We call this extension AI-Mail.
   ],
-  bibliography-file: bibliography("bib.bib"),
 )
 
 = Introduction
