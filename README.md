@@ -19,10 +19,9 @@ This research paper template is designed to help students and researchers at Fon
 
 Should the style update, you can easily update the template by changing the version number in the import statement (if there were no braking changes).
 
-<!-- <p>
-  <img src="./img/showcase-l.png" alt="Showcase" width="49%">
-  <img src="./img/showcase-r.png" alt="Showcase" width="49%">
-</p> -->
+<div align="center">
+  <img src="./img/cover.png" alt="Showcase" width="49%">
+</div>
 
 ## Requirements
 
@@ -52,3 +51,6 @@ I welcome contributions to improve and expand this document template. If you hav
 This template / repository is not endorsed by, directly affiliated with, maintained, authorized or sponsored by Fontys Hogeschool. It is provided as-is, without any warranty or guarantee of any kind. Use at your own risk.
 
 The author was/is a student at Fontys Hogeschool and created this template for personal use. It is shared publicly in the hope that it will be useful to others.
+
+The contents of the example document were copied from two previously created Typst templates.
+[First template](https://typst.app/universe/package/graceful-genetics) and [second template](https://typst.app/universe/package/splendid-mdpi).
